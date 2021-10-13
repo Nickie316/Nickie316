@@ -1,6 +1,6 @@
 
   ## Hello Camarada 👋
-  Welcome 🤝, <br>
+  Welcome 🇷🇺 🤝, <br>
   ### *ニッキエ (Nick)* here 🧙‍♂️
   <hr>
 
