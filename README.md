@@ -1,6 +1,9 @@
 
   ## Hello Camarada 👋
-  Welcome 🇷🇺 🤝, <br>
+  <div>
+   Welcome    <img height="25" width="25" src="https://github.com/Nickie316/backend/blob/master/Icons/russia.png" /> 🤝, <br>
+</div>
+ 
   ### *ニッキエ (Nick)* here 🧙‍♂️
   <hr>
 
