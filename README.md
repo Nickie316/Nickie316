@@ -59,7 +59,7 @@
 
 </div> <hr>
   
-![Snake animation](https://github.com/Nickie316/Nickie316/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Nickie316/Nickie36/blob/output/github-contribution-grid-snake.svg)
 
 
 - 👋 Hi, I’m @Nickie316
