@@ -58,6 +58,8 @@
   <img alt="C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 
 </div> <hr>
+  
+  ![Snake animation](https://github.com/Nickie316/Nickie316/blob/output/github-contribution-grid-snake.svg)
 
 - 👋 Hi, I’m @Nickie316
 - 👀 I’m interested in ...
